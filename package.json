@@ -1,0 +1,11 @@
+{
+  "name": "gitrepo",
+  "version": "1.0.0",
+  "description": "Created by Roohi Ali",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
